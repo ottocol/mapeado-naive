@@ -3,7 +3,7 @@
          args="-d $(find mapeado_naive)/worlds/ejemplo.world"/>
    <node name="rviz" pkg="rviz" type="rviz"
          args="-d $(find mapeado_naive)/mapeado_naive.rviz"/>
-   <node name="mi_teleop" pkg="teleop_twist_keyboard" 
+   <node name="mi_teleop" pkg="mapeado_naive" 
          type="teleop_twist_keyboard.py" output="screen"/>
    <node pkg="tf2_ros" type="static_transform_publisher" name="map_odom_naive_pub" 
          args="0 0 0 0 0 0 1 map odom"/>   
