@@ -1,6 +1,6 @@
 # mapeado_naive
 
-práctica de mapeadfo naive, actualizando el mapa suponiendo que se conoce perfectamente la posición del robot
+Plantilla para la práctica de mapeado naive, actualizando el mapa suponiendo que se conoce perfectamente la posición del robot
 
 ## Instalación
 
