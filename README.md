@@ -1,6 +1,6 @@
 # mapeado_naive
 
-práctica de mapeadfo naive, actualizando el mapa suponiendo que se conoce perfectamente la posición del robot
+Plantilla para la práctica de mapeado naive, actualizando el mapa suponiendo que se conoce perfectamente la posición del robot
 
 ## Instalación
 
@@ -15,7 +15,7 @@ cd src
 puedes copiar el repositorio actual como un *package* dentro de la carpeta `src` del *workspace* creado:
 
 ```bash
-git clone https://github.com/ottocol/mapeado_naive
+git clone https://github.com/ottocol/mapeado-naive.git
 ```
 y ahora compila el *workspace* y actualiza las variables de entorno para incluirlo
 
